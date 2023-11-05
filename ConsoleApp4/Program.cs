@@ -3,7 +3,8 @@
     private static void Main(string[] args)
     {
         //zad 1
-        Console.WriteLine("Hello, World! To jest mój pierwszy program");
+        Console.Write("Hello, World!");
+        Console.Write("To jest mój pierwszy program");
 
 
         //zad2
