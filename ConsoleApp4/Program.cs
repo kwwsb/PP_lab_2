@@ -8,9 +8,10 @@
 
 
         //zad2
-        Console.WriteLine(" "); //spacja
-        Console.WriteLine("\n"); //enter
-        Console.WriteLine("\t"); //tab
+        Console.Write("Hello World");
+        Console.Write(" "); //spacja
+        Console.Write("\n"); //enter
+        Console.Write("\t"); //tab
 
 
         //zad4
